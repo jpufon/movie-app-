@@ -9,11 +9,11 @@ Welcome to our platform, where movie and show enthusiasts can explore, search, a
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes.
 
-### Installing
+### Installing this project
 
-run cmd on your terminal
-git clone "link of this repos"
-once the repo is clone run "npm install"-install all dependecies
+run these on your terminal
+- $ git clone "replace with link of the repo"
+-once the repo is clone run " $ npm install" it will install all dependecies
 
 ## Running the projects
 
