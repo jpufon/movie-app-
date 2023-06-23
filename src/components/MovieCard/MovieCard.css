@@ -1,0 +1,72 @@
+.card-item {
+  background-color: midnightblue;
+  cursor: pointer;
+  transition: transform 0.3s;
+  min-height: 50px;
+  margin: 10px;
+}
+
+.card-item:hover {
+  transform: scale(1.1);
+}
+
+.card-img-container {
+  height: 275px;
+  overflow: hidden;
+}
+
+.card-img {
+  width: 100%;
+  height: 150%;
+  
+}
+img.card-img {
+  background-color: rgb(11, 11, 12);
+}
+
+.card-body {
+  padding: 1px;
+  color: var(--font-primary);
+  text-decoration: none;
+  background-color: rgb(11, 11, 12);
+  text-decoration-line: none;
+}
+h5.card-title{
+  color: black;
+}
+.card-title {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  text-align: center; 
+  text-decoration-line: none;
+  color: black;
+}
+.card-text {
+  text-align: center; 
+  text-decoration-line: none;
+  color: black;
+}
+
+
+/* Additional styles for the layout and slide functionality */
+/* .card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 20px;
+}
+.card-text {
+  text-align: center; 
+}
+
+.card-slider {
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+}
+
+.card-row {
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 10px;
+} */
